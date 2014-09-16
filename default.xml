@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com" />
   <remote  name="matthiasvp"
-           fetch="git://github.com/matthiasvp/" />
+           fetch="https://github.com/matthiasvp/" />
   <default revision="refs/tags/android-4.4.4_r1"
            remote="aosp"
            sync-j="4" />
