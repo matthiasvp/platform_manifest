@@ -465,6 +465,6 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
-  <project path="vendor/matthiasvp" name="vendor_matthiasvp" remote="matthiasvp" revision="marshmallow_6.0.1_r77" />
+  <project path="vendor/matthiasvp" name="vendor-matthiasvp" remote="matthiasvp" revision="marshmallow_6.0.1_r77" />
 
 </manifest>
